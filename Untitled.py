@@ -1,5 +1,7 @@
 def foo(x):
-  return x^2
+  return x^2;
 
-def sub(x):
+def subtract(x):
     return x-5;
+
+print "algebra rocks"
