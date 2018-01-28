@@ -2,7 +2,7 @@ def foo(x):
   return x^2
 
 def sub(x):
-    return x-5
+    return x
 
 def hahaha():
     print 'lolol'
